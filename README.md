@@ -28,7 +28,7 @@ Project created by <a href="https://github.com/aibelgopuran">aibelgopuran</a> to
 </p>
 
 ## 📢 Guide
-Click WA logo to Join Support Group 👇
+Click below TG logo to Join Our Group 👇
     <br>
 <br>
   [![join](tele.jpg)](https://t.me/SUNsetHrsG)
@@ -44,10 +44,8 @@ Click WA logo to Join Support Group 👇
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aibelgopuran/Julie-Mwol) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/TommyShelby)
-  
-     </div>
-<br>
-<br >
+    ________________________________________
+
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
 bash <(curl -L https://t.ly/tHxh)
