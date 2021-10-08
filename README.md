@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="shelby.jpg" width="450" height="445"/>
+  <img border-radius: 15px src="shelby.jpg" width="450" height="435"/>
   <p align="center">
 <a href="#"><img title="TommyShelby" src="https://img.shields.io/badge/TommyShelby-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
