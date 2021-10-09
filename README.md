@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/aibelgopuran">aibelgopuran</a> to make it public
+Project created by🌈 <a href="https://github.com/aibelgopuran">aibelgopuran</a> 💫to make it public
     <br>
        | © |
         Reserved |
@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/aibelgopuran">aibelgopuran</a> to
 <a href="https://github.com/aibelgopuran/TommyShelby/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aibelgopuran/TommyShelby?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## 📢 Guide
+## 📢 Guide 💝
 Click below TG logo to Join Our Group 👇
     <br>
 <br>
@@ -36,11 +36,11 @@ Click below TG logo to Join Our Group 👇
 
   </div>
     
-## Setup
+## 🔗 Setup ⚙️
 <div align="center">
 
-  ### Simple Method
-  
+  ### 🧮 Simple Method ⏳️
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aibelgopuran/Julie-Mwol) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/TommyShelby)
@@ -52,7 +52,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### The Hard Method
+### ⏳️ The Hard Method ⌛️
 ```js
 GET QR
 $ apt update
@@ -78,7 +78,7 @@ $ node bot.js
 ```
 
 
-### ⚠️ Warning! 
+### ⚠️ Warning! ☢️
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
