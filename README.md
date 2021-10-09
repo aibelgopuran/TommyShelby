@@ -44,7 +44,8 @@ Click below TG logo to Join Our Group 👇
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aibelgopuran/Julie-Mwol) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/TommyShelby)
-    ________________________________________
+
+♥________________________________♥
 
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
 ```
