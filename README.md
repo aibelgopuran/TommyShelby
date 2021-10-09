@@ -31,7 +31,7 @@ Project created by🌈 <a href="https://github.com/aibelgopuran">aibelgopuran</a
 Click below TG logo to Join Our Group 👇
     <br>
 <br>
-  [![join](tele.png)](https://t.me/SUNsetHrsG)
+  [![join](tele.jpg)](https://t.me/SUNsetHrsG)
   <div align="center">
 
   </div>
