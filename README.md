@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="tshelby.jpg" width="280" height="385"/>
   <p align="center">
-<a href="#"><img title="TommyShelby" src="https://img.shields.io/badge/TommyShelby-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="TommyShelby" src="https://img.shields.io/badge/TOMMY%20SHELBY-brightgreen?style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/aibelgopuran"><img title="Author" src="https://img.shields.io/badge/Author-aibelgopuran/TommyShelby?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/aibelgopuran"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AIBEL-brightgreen?style=for-the-badge&logo=github"></a>
 </p>
 </div>
 <p align="center">
