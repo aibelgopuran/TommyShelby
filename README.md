@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="shelby.jpg" width="280" height="385"/>
+  <img border-radius: 15px src="tshelby.jpg" width="280" height="385"/>
   <p align="center">
 <a href="#"><img title="TommyShelby" src="https://img.shields.io/badge/TommyShelby-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
@@ -31,7 +31,7 @@ Project created by🌈 <a href="https://github.com/aibelgopuran">aibelgopuran</a
 Click below TG logo to Join Our Group 👇
     <br>
 <br>
-  [![join](tele.jpg)](https://t.me/SUNsetHrsG)
+  [![join](tele.png)](https://t.me/SUNsetHrsG)
   <div align="center">
 
   </div>
