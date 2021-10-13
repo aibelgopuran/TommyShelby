@@ -36,7 +36,19 @@ r_text[26] = "\nAthu enne uddheshichanu… enne thanney uddheshichanu… enne ma
 r_text[27] = "\nBeedi undo saghave, oru theepetti edukkan\n";
 r_text[28] = "\nIppo sheriyakithara… ippo sheriyakithara…\n";
 r_text[29] = "\nEnne kollathirikkan pattuo? illa alley?\n";
-r_text[30] = "motivate cheyaan aarkum kayyum ath cheyth kaanikkaaana paad.\n       -Pinky";    
+r_text[30] = "motivate cheyaan aarkum kayyum ath cheyth kaanikkaaana paad.\n       -Pinky"; 
+r_text[31] = "My phone number is 2255"; 
+r_text[32] = "Pani varunund Avaracha";
+r_text[33] = "Njan Puliyanu Ketta";
+r_text[34] = "Purushu enne anugrahikanam";
+r_text[35] = "Chetta Kurachu Kanjiyedkkatte";
+r_text[36] = "Karnan Nepolean Bhagat Singh, Ivar moonuperumanu ente heroes";
+r_text[37] = "Thante thantha alla ente thantha";
+r_text[38] = "All Arealayum Aiyaa Ghilli Da";
+r_text[39] = "Nee padicha school la na headmaster da";
+r_text[40] = "Vazhkai Oru Vattam. Inga Jeikkaravan Thopan, Thokaravan Jeipaan";
+r_text[41] = "Twinkle Twinkle Little Star";
+r_text[42] = "Evulavo Panittom, Edha Panamattoma";    
 var i = Math.floor(31*Math.random())
 
 await message.sendMessage(r_text[i]);
