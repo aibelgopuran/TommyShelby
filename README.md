@@ -1,5 +1,6 @@
 <p align="center">
 <a href="https://fontmeme.com/stencil-fonts/"><img src="https://fontmeme.com/permalink/211016/377e5100da6ea6d1b1644db7cf67d886.png" alt="stencil-fonts" border="0"></a>
+🙂━━━━━━━━━━━━━━━━🙂
 <div align="center">
   <img border-radius: 15px src="tshelby.jpg" width="280" height="385"/>
   <p align="center">
@@ -43,10 +44,9 @@ Click below TG logo to Join Our Group 👇
 
   ### 🧮 Simple Method ⏳️
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol) 
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@Farhandqz/TommyShelby) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/TommyShelby)
-
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol)
 ♥________________________________♥
 
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
