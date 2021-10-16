@@ -17,11 +17,11 @@ const axios = require('axios');
 
 const Config = require('../config');
 
-const ll ="*Need some Word*"
+const ll ="*𝘦𝘯𝘵𝘩𝘦𝘬𝘪𝘭𝘶𝘮 𝘦𝘻𝘩𝘶𝘵𝘩 𝘮𝘸𝘶𝘵𝘩𝘦👻*"
 
 const Ln = "*▷🤖nigalk avashiyam ulla troll cherkkan◁* "
 
- const code = "*╔════◉ CAMANDS ◉════╗*\n\n            *❖═List═❖*\n \n*🔮.quby1    ❴text❵*\n*🔮.quby2    ❴text❵*\n*🔮.quby3    ❴text❵*\n*🔮.quby4    ❴text❵*\n*🔮.cat1    ❴text❵*\n*🔮.cat2    ❴text❵*\n*🔮.cat3    ❴text❵*\n*🔮.cat4    ❴text❵*\n*🔮.doggy1    ❴text❵*\n*🔮.doggy2    ❴text❵*\n*🔮.doggy3    ❴text❵*\n*🔮.doggy4    ❴text❵*\n*🔮.trollikka1    ❴text❵*\n*🔮.trollikka2    ❴text❵*\n*🔮.trollikka3    ❴text❵*\n*🔮.trollikka4    ❴text❵*\n\n*╚═══❖══▣══▣══❖═══╝*\n\n*▷Re мoded вy: SAIDALI*\n*▷Specιal тнanĸѕ тo ιnѕane вoy*"
+ const code = "*╔════◉ COMMANDS ◉════╗*\n\n            *❖═List═❖*\n \n*🔮.quby1    ❴text❵*\n*🔮.quby2    ❴text❵*\n*🔮.quby3    ❴text❵*\n*🔮.quby4    ❴text❵*\n*🔮.cat1    ❴text❵*\n*🔮.cat2    ❴text❵*\n*🔮.cat3    ❴text❵*\n*🔮.cat4    ❴text❵*\n*🔮.doggy1    ❴text❵*\n*🔮.doggy2    ❴text❵*\n*🔮.doggy3    ❴text❵*\n*🔮.doggy4    ❴text❵*\n*🔮.trollikka1    ❴text❵*\n*🔮.trollikka2    ❴text❵*\n*🔮.trollikka3    ❴text❵*\n*🔮.trollikka4    ❴text❵*\n\n*╚═══❖══▣══▣══❖═══╝*\n\n*▷Re мoded вy: SAIDALI*\n*▷Specιal тнanĸѕ тo ιnѕane вoy*"
 
 if (Config.WORKTYPE == 'public') {
 
