@@ -15,8 +15,11 @@ Project created by🌈 <a href="https://github.com/aibelgopuran">aibelgopuran</a
     <br>
        | © |
         Reserved |
-    <br> 
+    <br>
 </p>
+<h3 align="center">Contact Me:</h3>
+<p align="center">
+<a href="https://www.instagram.com/aibel_gopuran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" /></a>
 <p align="center">
 ✌🏻━━━━━━━━━━━━━━━━✌🏻
 </p>
@@ -112,4 +115,4 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=Killadism+never+ends)](https://github.com/aibelgopuran)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&color=%230000FF&size=25&center=true&vCenter=true&width=430&lines=%F0%9F%8C%88KILLADISM+NEVER+ENDS...%E2%9A%A1%EF%B8%8F)](https://github.com/aibelgopuran)
