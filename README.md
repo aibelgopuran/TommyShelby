@@ -23,7 +23,7 @@ Project created by🌈 <a href="https://github.com/aibelgopuran">aibelgopuran</a
 
   <p align="center">
   <a href="httsp://github.com/aibelgopuran/TommyShelby">
-    
+    <p align="center">
 <a href="https://github.com/aibelgopuran/followers"><img title="Followers" src="https://img.shields.io/github/followers/aibelgopuran?color=blue&style=flat-square"></a>
 <a href="https://github.com/aibelgopuran/TommyShelby/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aibelgopuran/TommyShelby?color=blue&style=flat-square"></a>
 <a href="https://github.com/aibelgopuran/TommyShelby/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aibelgopuran/TommyShelby?color=blue&style=flat-square"></a>
