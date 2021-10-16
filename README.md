@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://fontmeme.com/stencil-fonts/"><img src="https://fontmeme.com/permalink/211016/377e5100da6ea6d1b1644db7cf67d886.png" alt="stencil-fonts" border="0"></a>
-🙂━━━━━━━━━━━━━━━━🙂
+🙂━━━━━━━━━━━━━━━━━━🙂
 <div align="center">
   <img border-radius: 15px src="tshelby.jpg" width="280" height="385"/>
   <p align="center">
@@ -21,7 +21,7 @@ Project created by🌈 <a href="https://github.com/aibelgopuran">aibelgopuran</a
 <p align="center">
 <a href="https://www.instagram.com/aibel_gopuran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="45" width="45" /></a>
 <p align="center">
-✌🏻━━━━━━━━━━━━━━━━✌🏻
+✌🏻━━━━━━━━━━━━━━━━━━✌🏻
 </p>
 
   <p align="center">
@@ -50,7 +50,7 @@ Click below TG logo to Join Our Group 👇
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@Farhandqz/TommyShelby) 
   
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol)
-♥________________________________♥
+♥━━━━━━━━━━━━━━━━━━♥
 <div align="center">
 
  [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://www.instagram.com/aibel_gopuran/)
