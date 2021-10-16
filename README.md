@@ -48,8 +48,13 @@ Click below TG logo to Join Our Group 👇
   
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/farhan-dqz/Julie-Mwol)
 ♥________________________________♥
+<div align="center">
 
+ [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://www.instagram.com/aibel_gopuran/)
+ 
+ <div align="center">
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+
 ```
 bash <(curl -L https://t.ly/tHxh)
 ``` 
