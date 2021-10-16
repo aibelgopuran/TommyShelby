@@ -17,7 +17,7 @@ Project created by🌈 <a href="https://github.com/aibelgopuran">aibelgopuran</a
     <br> 
 </p>
 <p align="center">
-✌🏻━━━━━━━━━━━━━━━━━━━━━━━━━━━✌🏻
+✌🏻━━━━━━━━━━━━━━━━✌🏻
 </p>
 
   <p align="center">
