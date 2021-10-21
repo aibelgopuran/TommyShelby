@@ -49,7 +49,7 @@ Click below TG logo to Join Our Group 👇
 
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@Farhandqz/JulieMwol) 
   
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/aibelgopuran/TommyShelby)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/aibelgopuran/TommyShelby.git)
 ♥━━━━━━━━━━━━━━━━━━♥
 <div align="center">
 
