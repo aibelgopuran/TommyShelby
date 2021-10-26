@@ -28,10 +28,10 @@ Project created by🌈<a href="https://github.com/aibelgopuran">aibelgopuran</a>
   <p align="center">
   <a href="https://github.com/aibelgopuran/TommyShelby">
     
-<a href="https://github.com/aibelgopuran/TommyShelby/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/aibelgopuran/TommyShelby/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/aibelgopuran/TommyShelby/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/aibelgopuran/TommyShelby/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/aibelgopuran/TommyShelby/followers"><img title="Followers" src="https://img.shields.io/github/followers/aibelgopuran?color=blue&style=flat-square"></a>
+<a href="https://github.com/aibelgopuran/TommyShelby/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aibelgopuran/TommyShelby?color=blue&style=flat-square"></a>
+<a href="https://github.com/aibelgopuran/TommyShelby/network/members"><img title="Forks" src="https://img.shields.io/github/forks/aibelgopuran/TommyShelby?color=blue&style=flat-square"></a>
+<a href="https://github.com/aibelgopuran/TommyShelby/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/aibelgopuran/TommyShelby?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide 💝
