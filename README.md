@@ -20,7 +20,7 @@ Project created by🌈<a href="https://github.com/aibelgopuran">aibelgopuran</a>
 </p>
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://www.instagram.com/aibel_gopuran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="45" width="45" /></a>
+<a href="https://www.instagram.com/_. aib3l._/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="45" width="45" /></a>
 <p align="center">
 ✌🏻━━━━━━━━━━━━━━━━━━✌🏻
 </p>
